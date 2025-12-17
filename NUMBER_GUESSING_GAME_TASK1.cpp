@@ -29,3 +29,26 @@ else{
    return 0; 
 
 }
+output:
+Guess the number between 1 and 100 
+enter the Guess: 
+56
+Too high!
+45
+Too high!
+43
+Too high!
+34
+Too high!
+22
+Too high!
+20
+Too high!
+10
+Too high!
+9
+Too high!
+7
+Too low!
+8
+correct! you Guessed the number!
