@@ -36,3 +36,8 @@ int main(){
     return 0;
 
 }
+output:
+Enter two numbers:
+5 8
+Enter operation (+,-,*,/) to perform: +
+Addition of a and b is: 13
