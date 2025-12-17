@@ -168,3 +168,104 @@ int main()
     }
     return 0;
 }
+output:
+--------LIBRARY MENU-------- 
+1. Add Book 
+2. Search Book 
+3. Issue Book 
+4. Return Book 
+5. Show all Books 
+6. Calculate fine amount 
+7. Exit 
+ choose: 1
+Enter Title: The Alchemist
+Enter Author: Paulo Coelho
+Enter ISBN: 978-0061122415
+Book added
+
+--------LIBRARY MENU--------
+1. Add Book
+2. Search Book
+3. Issue Book
+4. Return Book 
+5. Show all Books
+6. Calculate fine amount
+7. Exit
+ choose: 2
+Enter Title/Author/ISBN: 978-0061122415
+Found
+Title: The Alchemist
+Author: Paulo Coelho
+ISBN: 978-0061122415
+status:  Available
+
+--------LIBRARY MENU--------
+1. Add Book
+2. Search Book
+3. Issue Book
+4. Return Book 
+5. Show all Books
+6. Calculate fine amount
+7. Exit 
+ choose: 3
+Enter isbn to issue: 978-0061122415
+Book issued:
+
+--------LIBRARY MENU--------
+1. Add Book
+2. Search Book
+3. Issue Book
+4. Return Book
+5. Show all Books
+6. Calculate fine amount
+7. Exit
+ choose: 4
+Enter isbn to return :978-0061122415
+Book returned Succesfully
+
+--------LIBRARY MENU--------
+1. Add Book
+2. Search Book
+3. Issue Book
+4. Return Book
+5. Show all Books
+6. Calculate fine amount
+7. Exit
+ choose: 5
+Title: The Alchemist
+Author: Paulo Coelho
+ISBN: 978-0061122415
+Status: Available
+
+--------LIBRARY MENU--------
+1. Add Book
+2. Search Book
+3. Issue Book
+4. Return Book
+5. Show all Books
+6. Calculate fine amount
+7. Exit
+ choose: 6
+Enter number of late days 3
+Total fine: Rs 15
+
+--------LIBRARY MENU--------
+1. Add Book
+2. Search Book
+3. Issue Book
+4. Return Book
+5. Show all Books 
+6. Calculate fine amount
+7. Exit
+ choose: 7
+Thankyou!
+
+--------LIBRARY MENU--------
+1. Add Book
+2. Search Book
+3. Issue Book
+4. Return Book 
+5. Show all Books 
+6. Calculate fine amount
+7. Exit
+ choose:
