@@ -260,7 +260,7 @@ Total fine: Rs 15
  choose: 7
 Thankyou!
 
---------LIBRARY MENU--------
+--------LIBRARY MENU---------
 1. Add Book
 2. Search Book
 3. Issue Book
